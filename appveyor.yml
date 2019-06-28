@@ -19,5 +19,5 @@ environment:
     # Run tests
     -npm test
 
-    # Dont actually build.
-    build: off
+  # Dont actually build.
+  build: off
